@@ -243,23 +243,23 @@ header .follow a:hover{
 }
 
 .skill .row-2 .percentage .progress:nth-child(1) .bar span{
-    width:95%;
-}
-
-.skill .row-2 .percentage .progress:nth-child(2) .bar span{
     width:80%;
 }
 
-.skill .row-2 .percentage .progress:nth-child(3) .bar span{
-    width:70%;
+.skill .row-2 .percentage .progress:nth-child(2) .bar span{
+    width:75%;
 }
 
-.skill .row-2 .percentage .progress:nth-child(4) .bar span{
+.skill .row-2 .percentage .progress:nth-child(3) .bar span{
     width:60%;
 }
 
-.skill .row-2 .percentage .progress:nth-child(5) .bar span{
+.skill .row-2 .percentage .progress:nth-child(4) .bar span{
     width:55%;
+}
+
+.skill .row-2 .percentage .progress:nth-child(5) .bar span{
+    width:50%;
 }
 
 .project h2 {
